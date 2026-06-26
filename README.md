@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Blur&color=0:0A241B,100:0FBF3E&height=200&section=header&text=Hi%20there%20👋&animation=fadeIn&fontSize=90&fontColor=F2F5F3&stroke=0A241B&strokeWidth=3)
+![header](https://capsule-render.vercel.app/api?type=Blur&color=0:0A241B,100:0FBF3E&height=200&section=header&text=Hi%20there%20👋&animation=fadeIn&fontSize=90&fontColor=F2F5F3&stroke=0A241B&strokeWidth=1)
 
 Welcome to my page!
 

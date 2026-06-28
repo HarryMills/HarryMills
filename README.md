@@ -4,14 +4,14 @@ Welcome to my page!
 
 ### About Me
 
-- 👋 Harry Mills | Software Engineer | Bristol, UK 🇬🇧
-- 💻 Self-taught programmer since 2011 (started by making and breaking things in school).
+- 👋 Harry Mills | Software Engineer | Bristol, UK 🇬🇧 
+- 💻 Programming since 2011 — started by making and breaking things in school, and kept going from there.
 - ⚙️ Passionate about C++, Python, systems programming and computer vision.
 - 🤖 I enjoy automating boring tasks, so I don't have to do them twice.
 - 🧠 Usually hyper-fixating over one new project until it's finished... then immediately starting another.
 - 📚 Always learning something new, whether that's a language, framework, or entirely new domain.
-- 🏃 Ultra marathon runner — apparently normal marathons weren't difficult enough.
 - 🎲 Board game designer in my spare time.
+- 🏃 Ultra marathon runner.
 
 ### Things I code with
 
